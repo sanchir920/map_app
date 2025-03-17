@@ -2,43 +2,31 @@
   {
     "question": "Энэ standoff-ийн ямар map вэ?",
     "img-url": "https://raw.githubusercontent.com/sanchir920/map_app/refs/heads/main/andoff%20breeze%20map.jpeg",
-    "options": ["Java", "Dart", "", ""],
-    "answer": "Dart"
+    "options": ["Ancient", "Vertigo", "Breeze", "Tandoff"],
+    "answer": "Breeze"
   },
   {
-    "question": "Flutter ямар UI framework вэ?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "question": "Энэ standoff-ийн ямар map вэ?",
+    "img-url": "https://raw.githubusercontent.com/sanchir920/map_app/refs/heads/main/Calypso%20andoff.jpg",
+    "options": ["Inferno", "Vertigo", "Bind", "Calypso"],
+    "answer": "Calypso"
+  },
+ {
+    "question": "Энэ standoff-ийн ямар map вэ?",
+    "img-url": "https://raw.githubusercontent.com/sanchir920/map_app/refs/heads/main/Lab%20andoff2.jpg",
+    "options": ["Lab", "Overpass", "Fracture", "Icebox"],
+    "answer": "Lab"
   },
   {
-    "question": "Flutter-д StatefulWidget болон StatelessWidget хоёрын ялгаа юу вэ?",
-    "options": [
-      "StatefulWidget-д төлөв өөрчлөгдөхгүй",
-      "StatelessWidget-д төлөв өөрчлөгдөхгүй",
-      "StatefulWidget-д төлөв хадгалагддаггүй",
-      "StatelessWidget нь setState() ашигладаг"
-    ],
-    "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
+    "question": "Энэ standoff-ийн ямар map вэ?",
+    "img-url": "https://raw.githubusercontent.com/sanchir920/map_app/refs/heads/main/andoffsnadstone.jpg",
+    "options": ["Sandstone", "Overpass", "Cache", "Icebox"],
+    "answer": "Sandstone"
   },
-  {
-    "question": "Монгол улс ямар тивд байдаг вэ?",
-    "options": [
-      "Ази",
-      "Америк",
-      "Европ",
-      "Африк"
-    ],
-    "answer": "Ази"
+   {
+    "question": "Энэ standoff-ийн ямар map вэ?",
+    "img-url": "https://raw.githubusercontent.com/sanchir920/map_app/refs/heads/main/sakura%20andoff.jpg",
+    "options": ["Sakura", "Overpass", "Lotus", "Icebox"],
+    "answer": "Sakura"
   },
-  {
-    "question": "Герман улс ямар тивд байдаг вэ?",
-    "options": [
-      "Ази",
-      "Америк",
-      "Европ",
-      "Африк"
-    ],
-    "answer": "Европ"
-  }
-  
 ]
